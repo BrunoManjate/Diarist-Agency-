@@ -22,4 +22,4 @@
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/diarist-agency.git
+   git clone https://github.com/BrunoManjate/diarist-agency.git
